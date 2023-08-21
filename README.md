@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/ReBrufato/5e1f78814dac4c0941d6759573414c8b/raw/60f286b7f7e774d10d7820311c25d894a3b34c7f/githubCard.svg">
+
 <!--
 **ReBrufato/ReBrufato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
