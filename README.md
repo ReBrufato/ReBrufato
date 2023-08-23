@@ -20,7 +20,6 @@
    ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
    ![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery)&nbsp;
-   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 
 ## Contato
 <p align="left" style="background:yellow">
