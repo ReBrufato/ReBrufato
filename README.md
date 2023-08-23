@@ -1,4 +1,4 @@
-<img align="right" height="470em" src="https://raw.githubusercontent.com/gist/ReBrufato/5e1f78814dac4c0941d6759573414c8b/raw/60f286b7f7e774d10d7820311c25d894a3b34c7f/githubCard.svg">
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/ReBrufato/5e1f78814dac4c0941d6759573414c8b/raw/60f286b7f7e774d10d7820311c25d894a3b34c7f/githubCard.svg">
 
 <h1 align="left">Olá 👋, sou Renan Brufato</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReBrufato&color=green" alt="Profile views" /> </p>
@@ -20,6 +20,8 @@
    ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
    ![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery)&nbsp;
+   
+<br><br>
 
 ## Contato
 <p align="left" style="background:yellow">
