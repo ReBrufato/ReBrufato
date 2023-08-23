@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/renan-brufato-19594a229" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-renanbrufato-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/renan.brufato" target="_blank">
+<a href="https://facebook/renan.brufato" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-renanbrufato-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 
