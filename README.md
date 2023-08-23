@@ -7,6 +7,21 @@
  
  - À procura de estágio e novos desafios
 
+ - Já programei e tive contato com ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+   ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
+   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
+   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+   ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
+   ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)&nbsp;
+   ![PHP](https://img.shields.io/badge/-Php-black?style=flat&logo=php)&nbsp;
+   ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)&nbsp;
+   ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)&nbsp;
+   ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)&nbsp;
+   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
+   ![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery)&nbsp;
+   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+
 ## Contato
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/renan-brufato-19594a229" target="_blank">
@@ -18,11 +33,10 @@
 
 </p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
+
+
+
+
 <!--
 **ReBrufato/ReBrufato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
