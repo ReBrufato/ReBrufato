@@ -3,6 +3,8 @@
 <h1 align="left">Olá 👋, sou Renan Brufato</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReBrufato&color=green" alt="Profile views" /> </p>
 
+<br>
+
  - Estudante de Tecnologia em Análise e Desenvolvimento de sistemas no IFSP São Carlos
  
  - À procura de estágio e novos desafios
@@ -21,7 +23,7 @@
    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
    ![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery)&nbsp;
    
-<br><br>
+<br>
 
 ## Contato
 <p align="left" style="background:yellow">
