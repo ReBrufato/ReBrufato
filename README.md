@@ -22,6 +22,7 @@
    ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
    ![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery)&nbsp;
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
    
 <br>
 
